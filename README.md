@@ -1,7 +1,7 @@
 # iOS-Hardware-Models
 Basic code to get the Hardware Model of an iOS device in Objective-C.
 
-#### Example:
+#### For Example:
 ```objective-c
 if ([deviceString isEqualToString:@"iPhone4,1"])    return @"iPhone 4S";
 ```
