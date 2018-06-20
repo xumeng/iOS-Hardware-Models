@@ -7,5 +7,6 @@ if ([deviceString isEqualToString:@"iPhone4,1"])    return @"iPhone 4S";
 ```
 
 
+
 #### References:
 [https://en.wikipedia.org/wiki/List_of_iOS_devices](https://en.wikipedia.org/wiki/List_of_iOS_devices)
